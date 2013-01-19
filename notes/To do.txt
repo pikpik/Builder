@@ -1,0 +1,13 @@
+Builder
+
+Things to do
+
+Convert success log into an RSS feed
+
+Rsync all logs to server
+
+Put it on GitHub
+
+Completely replace build logs of the same commit
+
+Don't repeat commits
