@@ -6,12 +6,14 @@ A very simple automated build template.
 Ready...
 --------
 
+```
 git clone git://github.com/pikpik/Builder.git builder
+```
 
 Set...
 ------
 
-Edit scripts/settings.sh, scripts/build.sh, and scripts/report.sh.
+Edit settings.sh, build.sh, and report.sh in scripts.
 
 Go!
 ---
