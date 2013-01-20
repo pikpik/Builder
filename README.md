@@ -3,23 +3,15 @@ Builder
 
 A very simple automated build template.
 
-1. Ready...
+Instructions
+------------
+1. ```git clone git://github.com/pikpik/Builder.git```
 
- ```
- git clone git://github.com/pikpik/Builder.git
- ```
+2. Edit settings.sh, build.sh, and report.sh in scripts.
 
-2. Set...
+3. ```sh start.sh```
 
- Edit settings.sh, build.sh, and report.sh in scripts.
-
-3. Go!
-
- ```
- sh start.sh
- ```
-
- The build system will run and report in the foreground.
+The build system will run and report in the foreground.
 
 To Come
 -------
